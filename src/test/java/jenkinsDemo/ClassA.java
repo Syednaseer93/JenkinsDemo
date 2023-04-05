@@ -9,6 +9,10 @@ public class ClassA {
 		System.out.println("|||||||||||||||||||||||||||||||||||||||||||||||");
 		System.out.println("---------------This is Just to test Jenkins");
 		System.out.println("|||||||||||||||||||||||||||||||||||||||||||||||");
-		Reporter.log("--------------This is Just to test Jenkins", true);
+
+		System.out.println("|||||||||||||||||||||||||||||||||||||||||||||||");
+		System.out.println("---------------This is Just to test Jenkins");
+		System.out.println("|||||||||||||||||||||||||||||||||||||||||||||||");
+
 	}
 }
